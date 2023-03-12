@@ -13,7 +13,7 @@
 
 <h1 align="center"> Tela de agendamento de pesquisadores</h1>
 <img src="https://user-images.githubusercontent.com/104855265/224559403-353884d0-a33b-4bd7-b23b-d645603685d1.png"/>
-<p align="center">Nesta tela é onde se agenda os pesquisadores com informações simples, como nome e telefone</p>
+<p align="center">Nesta tela é onde se agenda os pesquisadores com informações simples, como nome e cpf</p>
 
 <h1 align="center"> Tela de cadastro de reagentes</h1>
 <img src="https://user-images.githubusercontent.com/104855265/224559620-e5683c93-5898-430f-9484-053fc1653003.png"/>
